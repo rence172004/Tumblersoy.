@@ -1,0 +1,94 @@
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 30px;
+}
+
+#product-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* Product Item Styling */
+.product-item {
+    display: flex;
+    flex-direction: row;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    align-items: center;
+    gap: 20px;
+}
+
+.product-item img {
+    max-width: 150px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.product-item h2 {
+    font-size: 1.5rem;
+    color: #000000;
+    margin: 0;
+}
+
+.product-item p {
+    margin: 5px 0;
+    font-size: 0.9rem;
+}
+
+.old-price {
+    text-decoration: line-through;
+    color: #fc0101;
+}
+
+.price {
+    color: #2c7d2b;
+    font-weight: bold;
+}
+
+/* Button Styling */
+.button-container {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+}
+
+.button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button.buy-now {
+    background-color: #007bff;
+    color: white;
+}
+
+.button.buy-now:hover {
+    background-color: #0056b3;
+}
+
+.button.add-to-cart {
+    background-color: #28a745;
+    color: white;
+}
+
+.button.add-to-cart:hover {
+    background-color: #1e7e34;
+}

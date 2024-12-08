@@ -1,0 +1,140 @@
+/* General Reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Body Styling */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    padding: 20px;
+  }
+  
+  /* Header */
+  header {
+    background-color: #ff6f61;
+    color: white;
+    padding: 20px 10px;
+    text-align: center;
+    border-radius: 8px;
+  }
+  
+  header h1 {
+    font-size: 2em;
+    font-weight: bold;
+  }
+  
+  /* Main Content */
+  main {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  main h2 {
+    margin-bottom: 15px;
+    font-size: 1.8em;
+    color: #ff6f61;
+    border-bottom: 2px solid #f1f1f1;
+    padding-bottom: 5px;
+  }
+  
+  /* Product Summary */
+  .product-summary {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .product-summary img {
+    width: 150px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-summary h3 {
+    margin-bottom: 10px;
+    font-size: 1.5em;
+  }
+  
+  .product-summary p {
+    margin: 5px 0;
+  }
+  
+  .product-summary span {
+    color: #ff6f61;
+    font-weight: bold;
+  }
+  
+  /* Form Styling */
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  fieldset {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  legend {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  label {
+    display: block;
+    font-size: 0.9em;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="month"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  input:focus {
+    border-color: #ff6f61;
+    outline: none;
+  }
+  
+  /* Button Styling */
+  .buy-now-button {
+    background-color: #ff6f61;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+  }
+  
+  .buy-now-button:hover {
+    background-color: #e65b55;
+  }
+  
+  /* Footer */
+  footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #777;
+  }
+  

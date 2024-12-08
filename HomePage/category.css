@@ -1,0 +1,44 @@
+/* styles.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #333;
+    padding: 10px 0;
+    border-radius: 8px;
+}
+
+.navbar-list {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-list li {
+    margin: 0 15px;
+}
+
+.nav-button {
+    font-style: normal;
+    background-color: rgba(225, 0, 255, 0.658);
+    border: 1px solid #00000000;
+    border-radius: 4px;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.nav-button:hover {
+    background-color: #575757;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}

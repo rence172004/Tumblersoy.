@@ -1,0 +1,227 @@
+[ 
+    {
+      "id": 1,
+      "title": "Double-Walled Stainless Steel Tumbler ",
+      "oldPrice": 899.00,
+      "newPrice": 750.00,
+      "description": " A premium stainless steel tumbler designed to keep beverages hot or cold for hours.",
+      "longDescription": "This stainless steel tumbler is crafted with double-walled insulation, ensuring your drinks stay hot or cold for extended periods. It's durable, eco-friendly, and comes with a spill-proof lid.",
+      "image": "https://i5.walmartimages.com/asr/ba7ac55c-0918-4bd1-8a45-1c14f558ad13_1.e417837350b712c5a2e9d563514f221e.jpeg"
+    },
+    {
+      "id": 2,
+      "title": " Stainless Steel Tumbler with Handle and Straw ",
+      "oldPrice": 850.00,
+      "newPrice": 800.00,
+      "description": " A durable coffee mug with a handle and straw, ideal for traveling.",
+      "longDescription":"This high-quality stainless steel tumbler features double-walled insulation to keep your drinks hot or cold for hours, a convenient handle for easy carrying, and a reusable straw, making it perfect for on-the-go hydration.",
+      "image": "https://m.media-amazon.com/images/I/81Px0T5iRdL.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Stainless Coffee Cup with Handle",
+      "oldPrice": 1000.00,
+      "newPrice": 900.00,
+      "description": "A durable coffee mug perfect for traveling.",
+      "longDescription":"Crafted from premium stainless steel, this elegant coffee cup with a comfortable handle is ideal for sipping your favorite hot beverages like espresso, cappuccino, or tea, offering both style and durability.",
+      "image": "https://i5.walmartimages.com/asr/9cead7a4-d7ca-455c-befb-05a4ec380737.113c20d67678d71085917465eca569ac.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Stainless Steel Barista Coffee Cup",
+      "oldPrice": 399.00,
+      "newPrice": 299.00,
+      "description": " A durable coffee cup suitable for everyday use and traveling.",
+      "longDescription":"Designed for coffee lovers and professionals, this stainless steel barista coffee cup with an ergonomic handle is perfect for serving and enjoying specialty coffee drinks, ensuring a sleek and functional experience.",
+      "image": "https://progressprinting.com.au/wp-content/uploads/2020/03/Barista-Coffee-Cup-768x768.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Stainless Steel Tumbler with LED",
+      "oldPrice": 399.00,
+      "newPrice": 250.00,
+      "description": "A sleek stainless steel tumbler featuring an LED indicator, ideal for on-the-go use.",
+      "longDescription":"This innovative stainless steel tumbler with built-in LED lights not only keeps your drinks at the perfect temperature but also adds a fun, glowing effect, making it a unique and stylish choice for both day and night use.",
+      "image": "https://5.imimg.com/data5/ANDROID/Default/2022/3/FP/BX/AO/113955493/product-jpeg-1000x1000.jpg"
+    },
+    {
+      "id": 6,
+      "title": " Glass Floral Tumbler",
+      "oldPrice": 200.00,
+      "newPrice": 149.00,
+      "description": " A glass tumbler with a vibrant floral design for stylish drinking.",
+      "longDescription":" A beautifully designed glass tumbler featuring a delicate floral pattern. Perfect for adding a touch of elegance to your daily hydration routine. Ideal for both hot and cold beverages.",
+      "image": "https://img.shopperboard.com/12381014/13537977598063-1.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Glass Tumbler with Straw",
+      "oldPrice": 200.00,
+      "newPrice": 149.00,
+      "description": " A sleek glass tumbler with a durable straw for easy sipping.",
+      "longDescription":" This sleek glass tumbler comes with a convenient straw, making it perfect for sipping iced coffee, smoothies, or other beverages. Its modern design ensures portability and style.",
+      "image": "https://cdna.4imprint.com/prod/extras/161021/572039/700/1.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Glass Cup Tumbler with Straw",
+      "oldPrice": 300.00,
+      "newPrice": 250.00,
+      "description": "A glass tumbler with a straw, perfect for cold drinks.",
+      "longDescription":"A sturdy glass tumbler with an ergonomic grip and straw for comfortable sipping. Designed for durability and convenience, this cup is perfect for home or travel use.",
+      "image": "https://www.prostargifts.com/wp-content/uploads/2022/04/C90031-1.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Glass Cup Tumbler with Handle and Straw",
+      "oldPrice": 199.00,
+      "newPrice": 99.00,
+      "description": "A glass tumbler with a handle and straw for easy drinking.",
+      "longDescription":" A stylish glass cup with a practical handle and straw. Ideal for beverages on the go, this tumbler combines functionality with a chic design for daily use.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61cB6jQ-UxL._AC_SL1000_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Glass Tumbler with Handle and Straw",
+      "oldPrice": 229.00,
+      "newPrice": 187.00,
+      "description": "A glass tumbler featuring a handle and straw for convenience.",
+      "longDescription":"This glass tumbler features a convenient handle and a straw for ease of use. Perfect for enjoying your favorite drinks while traveling or relaxing at home.",
+      "image": "https://highcaliberline.com/cdn/shop/files/S918-06-front-blank-800px.jpg?v=1729728241&width=600"
+    },
+    {
+      "id": 11,
+      "title": "Plastic Travel Tumbler",
+      "oldPrice": 200.00,
+      "newPrice": 129.00,
+      "description": "A lightweight and portable tumbler, perfect for daily commutes..",
+      "longDescription": "The Plastic Travel Tumbler is a lightweight and durable travel companion, designed to keep your drinks secure and easily accessible on the go, with a spill-resistant lid and a sleek design perfect for daily use.",
+      "image": "https://www.mojopromotions.co.uk/images/products/solid_plastic_travel_tumbler/image/10/large_product.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Plastic Tumbler with Straw",
+      "oldPrice": 200.00,
+      "newPrice": 129.00,
+      "description": "A sleek tumbler with a reusable straw for easy sipping.",
+      "longDescription": "This Plastic Tumbler with Straw offers a convenient way to enjoy your cold beverages, featuring a reusable straw and a durable plastic construction that makes it both practical and eco-friendly.",
+      "image": "https://image.made-in-china.com/2f0j00JbzlRBdqkkfn/Dens-Double-Wall-Coffee-Mug-Insulated-Tumblers-for-750ml-Plastic-with-Straw-Straight-Tumblers.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Plastic Double Wall Tumbler with Straw",
+      "oldPrice": 200.00,
+      "newPrice": 180.00,
+      "description": "Double-wall design for insulation and a straw for convenience.",
+      "longDescription": "The Plastic Double Wall Tumbler with Straw features double-wall insulation, keeping your drinks colder or hotter for longer, while the included straw provides a spill-free and comfortable drinking experience.",
+      "image": "https://th.bing.com/th/id/OIP.zrxzJ8tjYOpcfBN4sYdU4gHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 14,
+      "title": "Plastic Sport Tumbler",
+      "oldPrice": 120.00,
+      "newPrice": 89.00,
+      "description": "A sporty design with a secure lid for on-the-go hydration.",
+      "longDescription": "A perfect companion for active lifestyles, the Plastic Sport Tumbler is designed to fit in most cup holders, featuring a secure, spill-proof lid and a sturdy, durable build, ideal for both hydration and sports activities.",
+      "image": "https://th.bing.com/th/id/OIP.blU59Lxv4D3bardlrzy_zQHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": 15,
+      "title": "Plastic Tumbler with Handle and Straw",
+      "oldPrice": 299.00,
+      "newPrice": 249.00,
+      "description": "Features a handle and straw for comfortable and stylish use..",
+      "longDescription": "The Plastic Tumbler with Handle and Straw combines convenience and practicality with a sturdy handle for easy carrying and a reusable straw for sipping your favorite drinks while on the move.",
+      "image": "https://m.media-amazon.com/images/I/612YTZsYSiL._AC_SS450_.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Ceramic Handmade Tumbler",
+      "oldPrice": 999.00,
+      "newPrice": 850.00,
+      "description": "A durable coffee mug perfect for traveling, handmade with a rustic ceramic finish.",
+      "longDescription": "Crafted with care, the Ceramic Handmade Tumbler offers a unique and artistic design, perfect for enjoying hot or cold beverages, while showcasing the natural beauty of handmade craftsmanship.",
+      "image": "https://i.etsystatic.com/12936328/r/il/bc4c39/3092934909/il_fullxfull.3092934909_iyrg.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Ceramic Travel Tumbler",
+      "oldPrice": 500.00,
+      "newPrice": 450.00,
+      "description": "A durable and portable coffee tumbler with a black lid, suitable for travel.",
+      "longDescription": "The Ceramic Travel Tumbler is a stylish and durable choice for on-the-go coffee lovers, featuring a spill-resistant lid and a comfortable design that ensures a smooth drinking experience during your daily commute.",
+      "image": "https://images.squarespace-cdn.com/content/v1/52bcad89e4b04ea9921bfa81/1668980115250-07AML2TH40WOHM0G8NPF/DSCF9200.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Ceramic Lined Insulated Essential Tumbler",
+      "oldPrice": 999.00,
+      "newPrice": 879.00,
+      "description": "A sleek, insulated tumbler lined with ceramic for an enhanced drinking experience.",
+      "longDescription": "The Ceramic Lined Insulated Essential Tumbler offers both style and function, with ceramic lining for a premium drinking experience and insulation to keep your beverages at the perfect temperature for hours.",
+      "image": "https://i5.walmartimages.com/seo/RTIC-30-oz-Ceramic-Lined-Insulated-Essential-Tumbler-Leak-Resistant-Lid-RTIC-Ice-Glitter_e7660e3f-1bcd-4378-bf2e-58b074f6cbd2.ff80d1c30d55593168aa1170a880fef0.jpeg"
+    },
+    {
+      "id": 19,
+      "title": "Ceramic Tumbler",
+      "oldPrice": 1000.00,
+      "newPrice": 800.00,
+      "description": " A minimalist and functional ceramic tumbler ideal for hot or cold beverages.",
+      "longDescription": "This Ceramic Tumbler features a simple, elegant design, perfect for enjoying your coffee or tea at home or the office, with a sturdy, comfortable grip and a timeless, classic aesthetic.",
+      "image": "https://m.media-amazon.com/images/I/51LaVUTgE6L.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Ceramic Travel Tumbler with Handle",
+      "oldPrice": 1500.00,
+      "newPrice": 1200.00,
+      "description": "A convenient ceramic tumbler with a sturdy handle, perfect for coffee lovers on the go.",
+      "longDescription": "The Ceramic Travel Tumbler with Handle combines the beauty of ceramic with a convenient handle, making it easy to carry while keeping your drinks warm or cold for your daily journey.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31dm3P9w6rL.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Bamboo Vacuum Tumbler",
+      "oldPrice": 350.00,
+      "newPrice": 250.00,
+      "description": "A durable vacuum-insulated bamboo tumbler, perfect for keeping your drinks hot or cold while traveling.",
+      "longDescription": "Made from natural bamboo, the Bamboo Vacuum Tumbler is both eco-friendly and functional, offering excellent insulation to keep drinks at the perfect temperature while providing a sustainable, stylish design.",
+      "image": "https://www.primelinegifts.ph/wp-content/uploads/2021/02/VF-5055_Bamboo-Tumbler_A_Drinkware_489x600.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Bamboo Travel Tumbler",
+      "oldPrice": 400.00,
+      "newPrice": 399.00,
+      "description": "A sleek and portable bamboo travel tumbler with a sturdy design, ideal for daily use.",
+      "longDescription": "The Bamboo Travel Tumbler is a perfect eco-conscious option for your daily commute, offering a sleek design, durable bamboo exterior, and reliable insulation to maintain your beverages at the ideal temperature.",
+      "image": "https://www.tailoredprojects.ph/cdn/shop/products/Custom-eco-friedly-gift-2_800x.jpg?v=1654495134"
+    },
+    {
+      "id": 23,
+      "title": "Bamboo Travel Tumbler with Handle",
+      "oldPrice": 599.00,
+      "newPrice": 499.00,
+      "description": "A stylish bamboo tumbler with a handle for added convenience during travel or at home.",
+      "longDescription": "Designed with sustainability in mind, the Bamboo Travel Tumbler with Handle features a convenient handle for easy carrying and a bamboo exterior, ensuring both functionality and eco-friendliness.",
+      "image": "https://cup-bottle.com/wp-content/uploads/2022/12/Bamboo-Travel-Tumbler-With-Handle-600x600.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Bamboo Cup Trumbler",
+      "oldPrice": 599.00,
+      "newPrice": 468.00,
+      "description": "A compact bamboo tumbler with a simple design, suitable for various beverages.",
+      "longDescription": "This Bamboo Cup Tumbler is a unique and eco-friendly alternative to traditional drinkware, made from sustainable bamboo and designed to offer a durable, natural look for your daily beverages.",
+      "image": "https://www.giftup.eu/wp-content/uploads/2020/06/MO9689_40.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Bamboo Tumbler Cup with Straw",
+      "oldPrice": 699.00,
+      "newPrice": 550.00,
+      "description": "A modern bamboo tumbler with an eco-friendly straw, perfect for sipping on your favorite drinks.",
+      "longDescription": "The Bamboo Tumbler Cup with Straw combines the natural aesthetic of bamboo with a reusable straw, offering a sustainable, stylish, and convenient way to enjoy your cold beverages.",
+      "image": "https://i.ibb.co/mDFBhNp/ee4e6dee-19e9-49ab-bbb8-c4e3c0a81192.webp"
+    }
+  ]
